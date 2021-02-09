@@ -35,7 +35,7 @@ var lines = [
     "You deserve the world and all the good things it has to offer. If I fail to find that world for you, I promise to give you mine!",
     "When the rain is blowing in your face and the whole world is on your case, I could offer you a warm embrace to make you feel my love.",
     "Hold my hand tight as I want to grow old with you from this day forth.",
-    "I Love You Damn"
+    "I Love You !!"
 ]
 
 // MAKING FUNCTIONS
